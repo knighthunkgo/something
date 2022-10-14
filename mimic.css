@@ -27,8 +27,8 @@ boomerang
 	animation-name: floating;
 	-webkit-animation-name: floating;
 
-	animation-duration: 3s;	
-	-webkit-animation-duration: 3s;
+	animation-duration: 5s;	
+	-webkit-animation-duration: 5s;
 
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite;
